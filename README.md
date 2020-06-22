@@ -36,4 +36,4 @@ Follow the instruction to add more features,
 4. At last, **make a pull request**, and thanks for collaborating.
 
 
- • Please do ⭐ the repository, if it helped you in any way.
+Please do ⭐ the repository, if it helped you in any way.
