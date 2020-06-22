@@ -1,6 +1,6 @@
 
 # Instagram Bot 🤖
-Insta Bot is automation which handles your Instagram account as a real user. While running automated tasks you're sitting and enjoying your sip of coffee ☕
+Insta Bot is **automation** which handles your Instagram account as a real user. While running automated tasks you're sitting and enjoying your sip of coffee ☕
 
 ## Features 
 1. Get Unfollowers List ( the one's who didn't follow you back ) 😠
@@ -18,22 +18,22 @@ Insta Bot is automation which handles your Instagram account as a real user. Whi
  ## Installation
  ### Steps
  1. Clone this repository
- 2. Create and Activate Virtual Environment
+ 2. Create and **Activate Virtual Environment**
  3. Write command `pip3 install -r requirements.txt`
- 4. Open ./secret.py, replace 
+ 4. Open **secret.py**, replace 
  `username = **** 
  pw = **** ` with your crendentials.
- 5. Open ./insta_bot.py and replace 
+ 5. Open **insta_bot.py** and replace 
 `DRIVER_PATH = '/home/prakhar/Downloads/chromedriver_linux64/chromedriver'`
 with your ChromeDriver path
 6. Now you're ready to go `python3 insta_bot.py` and enjoy your coffee ☕.
 
 ## Wanna add more features 
 Follow the instruction to add more features,
-1. Open the file ./insta_bot.py
-2. Under class InstaBot define your method with new features.
-3. Now integrate that feature in while loop and test it twice.
-4. At last, make a pull request, and thanks for collaborating.
+1. Open the file **insta_bot.py**
+2. Under **class InstaBot define your method** with new features.
+3. Now integrate that feature in while loop and **test it twice**.
+4. At last, **make a pull request**, and thanks for collaborating.
 
 
  • Please do ⭐ the repository, if it helped you in any way.
