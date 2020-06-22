@@ -1,5 +1,8 @@
 
 # Instagram Bot 🤖
+
+![](/Demo/insta_bot-1.gif)
+
 Insta Bot is **automation** which handles your Instagram account as a real user. While running automated tasks you're sitting and enjoying your sip of coffee ☕
 
 ## Features 
