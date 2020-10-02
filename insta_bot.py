@@ -59,7 +59,7 @@ class InstaBot:
                 f.write(name + '\r\n')
                 f.close()
         except:
-            print('Something went wrong try again!!')
+            print('Something went wrong unable to get unfollowers, try again ')
         
     def get_followers_or_following(self,i_path):
         try:
@@ -97,7 +97,7 @@ class InstaBot:
 
     def like_comment_by_hashtag(self):
         try:
-            hashtag = input("Enter Hashtag : ")
+            hashtag = input("Please Enter Hashtag : ")
 
             self.driver.get(f'https://www.instagram.com/explore/tags/{hashtag}/')
         
